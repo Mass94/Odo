@@ -1,2 +1,2 @@
-# Odo
+# Odoo
 Projet_odoo
